@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="background">#081B26</color>
+    <color name="textColor">#F2E8DD</color>
+    
+    <!-- Links -->
+    <color name="linkColor">#0088cc</color>
+    <color name="linkColorHover">#00527A</color>
+    
+    <!-- Colors -->
+    <color name="blue">#049cdb</color>
+    <color name="green">#46a546</color>
+    <color name="red">#9d261d</color>
+    <color name="yellow">#ffc40d</color>
+    <color name="orange">#f89406</color>
+    <color name="simple">#F2E8DD</color>
+    
+    <!-- Colors darkened (for gradient purposes) -->
+    <color name="blue_d">#036690</color>
+    <color name="green_d">#2f6f2f</color>
+    <color name="red_d">#5c1611</color>
+    <color name="yellow_d">#c09100</color>
+    <color name="orange_d">#ad6704</color>
+    <color name="simple_d">#ddc3a6</color>
+    
+    <!-- Color Pallette -->
+    <color name="pallete_1">#081B26</color>
+    <color name="pallete_2">#2B3B45</color>
+    <color name="pallete_3">#A69F95</color>
+    <color name="pallete_4">#F2E8DD</color>
+    <color name="pallete_5">#FF9709</color>
+    
+    
+</resources>

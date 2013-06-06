@@ -1,0 +1,82 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="creamy">
+        
+       
+        
+    </style>
+    
+    <!-- Buttons -->
+    <style name="creamy.button" >
+        <item name="android:background">@drawable/selector_default</item>
+        
+        <item name="android:padding">15dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    
+    <style name="creamy.button.green" >
+        <item name="android:background">@drawable/selector_green</item>
+    </style>
+    <style name="creamy.button.error" >
+        <item name="android:background">@drawable/selector_error</item>
+    </style>
+    <style name="creamy.button.warning" >
+        <item name="android:background">@drawable/selector_warning</item>
+    </style>
+     <style name="creamy.button.simple" >
+        <item name="android:background">@drawable/selector_simple</item>
+        <item name="android:textColor">@color/background</item>
+    </style>
+    
+    <!-- Text -->
+    <style name="creamy.heading">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/pallete_5</item>
+        <item name="android:shadowColor">@color/pallete_2</item>
+        <item name="android:shadowDx">3</item>
+        <item name="android:shadowDy">3</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+    
+    <style name="creamy.heading.h1">
+        <item name="android:textSize">80sp</item>
+    </style>
+    <style name="creamy.heading.h2">
+        <item name="android:textSize">70sp</item>
+    </style>
+    <style name="creamy.heading.h3">
+        <item name="android:textSize">60sp</item>
+    </style>
+    <style name="creamy.heading.h4">
+        <item name="android:textSize">50sp</item>
+    </style>
+    <style name="creamy.heading.h5">
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="creamy.heading.h6">
+        <item name="android:textSize">30sp</item>
+    </style>
+    
+    <!-- Hero Unit -->
+    <style name="creamy.heroUnit">
+        <item name="android:background">@drawable/shape_hero_unit</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    
+    
+    
+
+</resources>
